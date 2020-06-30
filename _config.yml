@@ -6,7 +6,7 @@ description         : >-
                       and never broke production.
 baseurl             : ""
 # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-
+repository          : VanshikaSingh/VanshikaSingh.github.io    
  # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 
 
@@ -26,7 +26,6 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Vanshika Singh
   image             : https://i.imgur.com/uyDNQnn.jpg
   behance           : your_username
 # dribbble          : your_username
